@@ -8,5 +8,22 @@
 
 SistemParking es un proyecto académico desarrollado como parte del programa Técnico en Codificación de Software.
 El objetivo del proyecto es crear un sistema inteligente para administrar parqueaderos de manera más organizada, rápida y segura.
-El sistema permite controlar el ingreso y salida de vehículos, administrar los cupos disponibles y automatizar diferentes procesos del parqueadero. 
+El sistema permite controlar el ingreso y salida de vehículos, administrar los cupos disponibles y automatizar diferentes procesos del parqueadero.
+
+## Objetivo General
+
+Desarrollar un software que facilite la administración de parqueaderos mediante la automatización de procesos,
+mejorando la organización, reduciendo errores y brindando un mejor servicio a los usuarios. 
+
+## Funciones Principales
+
+* Registro de entrada y salida de vehículos.
+* Control de cupos disponibles.
+* Cálculo automático de tarifas.
+* Sistema de reservas.
+* Generación de facturas.
+* Reportes de ingresos diarios.
+* Gestión de cupos VIP y descuentos para algunos servicios. 
+
+
 
