@@ -25,5 +25,23 @@ mejorando la organización, reduciendo errores y brindando un mejor servicio a l
 * Reportes de ingresos diarios.
 * Gestión de cupos VIP y descuentos para algunos servicios. 
 
+## Herramientas Utilizadas
+
+* PSeInt.
+* Python.
+* MySQL.
+* Visual Studio Code.
+* GitHub. 
+
+## Beneficios
+
+SistemParking ayuda a mejorar la administración de los parqueaderos, disminuye los errores en los cobros,
+agiliza el ingreso y salida de vehículos y ofrece una mejor experiencia tanto para los administradores como para los clientes. 
+
+## Conclusión
+
+Este proyecto permitió aplicar los conocimientos adquiridos durante la formación en programación y desarrollo de software. Además,
+fortaleció habilidades relacionadas con el análisis de problemas, el diseño de soluciones tecnológicas y el trabajo en equipo. 
+
 
 
