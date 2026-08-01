@@ -7,3 +7,8 @@ Angello Morales
 - Hoja de vida
 - Proyecto académico
 - Evidencias de aprendizaje
+
+  ## Tecnologías
+- GitHub
+- PSeInt
+- Programación
